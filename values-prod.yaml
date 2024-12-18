@@ -1,4 +1,5 @@
 image:
   repository: nginx
 serviceAccount:
-  create: false
+  create: true
+  name: <secret:test>
