@@ -2,4 +2,4 @@ image:
   repository: nginx
 serviceAccount:
   create: true
-  name: <secret:test>
+  name: <secret:ARGO_SECRET_test>
