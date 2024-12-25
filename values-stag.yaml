@@ -1,0 +1,5 @@
+image:
+  repository: nginx
+serviceAccount:
+  create: true
+  name: <path:kv/data/sa_name#sa_name_stag>
